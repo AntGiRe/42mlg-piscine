@@ -19,13 +19,20 @@ Hello pisciner, do not copy the solutions of this repository. I wanted to have e
 |   08   | [**C 02**](./C02)                           |               C                | [![agil-rey's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2666380)](#)
 |   09   | [**Rush 01**](./Rush01)                           |               C                | [![agil-rey's 42 C Piscine Rush 01 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2664725)](#)
 |   10   | [**C 03**](./C03)                           |               C                | [![agil-rey's 42 C Piscine C 03 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2669078)](#)
-|   10   | **Exam 02**                         |               C                | [![agil-rey's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2676295)](#)
+|   11   | **Exam 02**                         |               C                | [![agil-rey's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2676295)](#)
+|   10   | [**C 04**](./C04)                           |               C                | [![agil-rey's 42 C Piscine C 04 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2674783)](#)
+|   10   | [**C 05**](./C05)                           |               C                | [![agil-rey's 42 C Piscine C 05 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2683978)](#)
+|   10   | [**C 06**](./C06)                           |               C                | [![agil-rey's 42 C Piscine C 06 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2683975)](#)
+|   10   | [**C 07**](./C07)                           |               C                | [![agil-rey's 42 C Piscine C 07 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2689078)](#)
+|   10   | [**C 08**](./C08)                           |               C                | [![agil-rey's 42 C Piscine C 08 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2689079)](#)
+|   11   | **Final Exam**                         |               C                | [![agil-rey's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2691505)](#)
+
 
 🚧![](#) Work on progress
 
 ## 📚 More
 In the last days of the pool, after so much accumulated tension, I created the following minigames.
 First a minesweeper, it works the same as the windows one (more or less) and on the other hand a hangman, that a person places a word in the program and play!
-<br>[**Minesweeper**](./Others/buscaminas)
+<br>[**Minesweeper 00**](./Others/buscaminas)
 <br>[**Hangman 00**](./Others/ahorcado)
 
