@@ -15,7 +15,17 @@ Hello pisciner, do not copy the solutions of this repository. I wanted to have e
 |   04   | [**Rush 00**](./Rush00)                             |               C                | [![agil-rey's 42 C Piscine Rush 00 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2650825)](#)
 |   05   | [**C 01**](./C01)                             |               C                | [![agil-rey's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2660149)](#)
 |   06   | [**Shell 01**](./Shell01)                             |               Shell                | [![agil-rey's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2649238)](#)
-|   07   | **Exam 01**                         |               C                | [![agil-rey's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2662342)](https://github.com/JaeSeoKim/badge42)
+|   07   | **Exam 01**                         |               C                | [![agil-rey's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2662342)](#)
+|   08   | [**C 02**](./C02)                           |               C                | [![agil-rey's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2666380)](#)
+|   09   | [**Rush 01**](./Rush01)                           |               C                | [![agil-rey's 42 C Piscine Rush 01 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2664725)](#)
+|   10   | [**C 03**](./C03)                           |               C                | [![agil-rey's 42 C Piscine C 03 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2669078)](#)
+|   10   | **Exam 02**                         |               C                | [![agil-rey's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2676295)](#)
+
+
+
+
+
+
 
 
 🚧![](#) Work on progress
