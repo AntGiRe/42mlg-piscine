@@ -28,8 +28,6 @@ Hello pisciner, do not copy the solutions of this repository. I wanted to have e
 |   11   | **Final Exam**                         |               C                | [![agil-rey's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2691505)](#)
 
 
-🚧![](#) Work on progress
-
 ## 📚 More
 In the last days of the pool, after so much accumulated tension, I created the following minigames.
 First a minesweeper, it works the same as the windows one (more or less) and on the other hand a hangman, that a person places a word in the program and play!
