@@ -5,7 +5,7 @@
 ## 📚 My projects
 ![42](https://badgen.net/badge/Born2Code/agil-rey/cyan?icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
-Hello pool, do not copy the solutions of this repository. I wanted to have everything I did on campus somewhere forever <3. Ask the pool buddies, that's what 42 is based on. Left, right or Google. Enjoy this (intense) nice ride.
+Hello pisciner, do not copy the solutions of this repository. I wanted to have everything I did on campus somewhere forever <3. Ask the pool buddies, that's what 42 is based on. Left, right or Google. Enjoy this (intense) nice ride.
 
 | # | Project                                                                              |            Language            |                                      Score                                       |
 | :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: |
