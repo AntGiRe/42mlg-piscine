@@ -9,7 +9,11 @@
 | :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: |
 |   01   | [**Shell 00**](./Shell00)                             |               Shell                | [![agil-rey's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2645458)](#)
  |   02   | **Exam 00**                            |               C                | [![agil-rey's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2648397)](#)
- |   03   | [**C 00**](./C00)                             |               Shell                | [![agil-rey's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2654770)](#)
+ |   03   | [**C 00**](./C00)                             |               C                | [![agil-rey's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2654770)](#)
 |   04   | [**Rush 00**](./Rush00)                             |               C                | [![agil-rey's 42 C Piscine Rush 00 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2650825)](#)
+|   05   | [**C 01**](./C01)                             |               C                | [![agil-rey's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2660149)](#)
+|   06   | [**Shell 01**](./Shell01)                             |               Shell                | [![agil-rey's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2649238)](#)
+|   07   | **Exam 01**                         |               C                | [![agil-rey's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2662342)](https://github.com/JaeSeoKim/badge42)
+
 
 🚧![](#) Work on progress
