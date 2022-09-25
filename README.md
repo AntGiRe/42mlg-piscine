@@ -21,12 +21,11 @@ Hello pisciner, do not copy the solutions of this repository. I wanted to have e
 |   10   | [**C 03**](./C03)                           |               C                | [![agil-rey's 42 C Piscine C 03 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2669078)](#)
 |   10   | **Exam 02**                         |               C                | [![agil-rey's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2676295)](#)
 
-
+🚧![](#) Work on progress
 
 ## 📚 More
 In the last days of the pool, after so much accumulated tension, I created the following minigames.
 First a minesweeper, it works the same as the windows one (more or less) and on the other hand a hangman, that a person places a word in the program and play!
-[**Minesweeper**](./Others/buscaminas)
-[**Hangman 00**](./Others/ahorcado)
+<br>[**Minesweeper**](./Others/buscaminas)
+<br>[**Hangman 00**](./Others/ahorcado)
 
-🚧![](#) Work on progress
