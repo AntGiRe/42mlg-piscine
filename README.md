@@ -7,7 +7,7 @@
 
 | # | Project                                                                              |            Language            |                                      Score                                       |  Level   |
 | :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: | :------: |
-|   01   | [**Shell 00**](#)                             |               Shell                | [![agil-rey's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2645458)](https://github.com/JaeSeoKim/badge42)
+|   01   | [**Shell 00**](https://github.com/AntGiRe/42mlg-piscine/tree/main/Shell%2000)                             |               Shell                | [![agil-rey's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2645458)](https://github.com/JaeSeoKim/badge42)
  |   02   | [**Exam 00**](#)                             |               C                | [![agil-rey's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2648397)](https://github.com/JaeSeoKim/badge42)
  |   03   | [**Shell 01**](#)                             |               Shell                | [![agil-rey's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2649238)](https://github.com/JaeSeoKim/badge42)
 |   04   | [**Rush 00**](#)                             |               C                | [![agil-rey's 42 C Piscine Rush 00 Score](https://badge42.vercel.app/api/v2/cl8bhhrse00110gmevcpxbj54/project/2650825)](https://github.com/JaeSeoKim/badge42)
