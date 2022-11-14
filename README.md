@@ -29,8 +29,7 @@ Hello pisciner, do not copy the solutions of this repository. I wanted to have e
 
 
 ## 📚 More
-In the last days of the pool, after so much accumulated tension, I created the following minigames.
-First a minesweeper, it works the same as the windows one (more or less) and on the other hand a hangman, that a person places a word in the program and play!
+In the last days of the pool, after so much accumulated tension, I created the following minigames. First a minesweeper, it works the same as the windows one (more or less) and on the other hand a hangman, ask a person to write a word into the program and time to play!
 <br>[**Minesweeper 00**](./Others/buscaminas)
 <br>[**Hangman 00**](./Others/ahorcado)
 
